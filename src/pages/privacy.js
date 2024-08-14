@@ -101,7 +101,7 @@ export default function Home() {
         <h3>Changes To This Policy</h3>
         <p>We may update this privacy policy to reflect changes to our information practices. If we do make any changes, we will notify you by means of a notice on this website prior to the change becoming effective. We encourage you to frequently review this page for the latest information on our privacy practices.</p>
         <h3>Contact Us</h3>
-        <p className="bottom-text">You have the right to access, update or delete your personal data at any time. If you have any questions or concerns about this policy, please contact us at <a href="mailto:privacy@runebot.org">privacy@runebot.org</a> or join our <a href="https://support.runebot.org/" target="_blank" rel="noreferrer">support server</a>.</p>
+        <p className="bottom-text">You have the right to access, update or delete your personal data at any time. If you have any questions or concerns about this policy, please contact us at <a href="mailto:privacy@runebot.org">privacy@runebot.org</a> or join our <a href="https://runebot.org/support" target="_blank" rel="noreferrer">support server</a>.</p>
       </div>
       <Footer />
     </StyledBody>

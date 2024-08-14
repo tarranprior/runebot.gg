@@ -76,7 +76,7 @@ export default function Home() {
         <h3>Modification</h3>
         <p>Runebot may revise these terms of service for its website and Discord bot at any time without notice. By using this website or the Runebot Discord bot you are agreeing to be bound by the then current version of these terms of service.</p>
         <h3>Contact Us</h3>
-        <p className="bottom-text">If you have questions or concerns with regards to these Terms of Service, we'd love to chat! Please contact us at <a href="mailto:hello@runebot.org">hello@runebot.org</a> or join our <a href="https://support.runebot.org/" target="_blank" rel="noreferrer">support server</a>.</p>
+        <p className="bottom-text">If you have questions or concerns with regards to these Terms of Service, we'd love to chat! Please contact us at <a href="mailto:hello@runebot.org">hello@runebot.org</a> or join our <a href="https://runebot.org/support" target="_blank" rel="noreferrer">support server</a>.</p>
       </div>
       <Footer />
     </StyledBody>

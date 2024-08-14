@@ -91,7 +91,7 @@ function Hero() {
                   {exploreButton}
                 </div>
               </Link>
-              <a href="https://invite.runebot.org" target="_self">
+              <a href="https://runebot.org/invite" target="_blank" rel="noopener noreferrer">
                 <div className="invite-button wobble-on-hover">
                 {inviteButton}
                 </div>
